@@ -1,0 +1,7 @@
+app_name: NEXUS
+environment: dev
+default_provider: openai
+default_model: gpt-4o-mini
+memory_backend: chromadb
+max_iterations: 10
+human_in_loop: false

@@ -1,0 +1,9 @@
+agents:
+  orchestrator:
+    model: gpt-4o
+  research:
+    model: gpt-4o
+  code:
+    model: codellama
+  qa:
+    model: claude-3-haiku-20240307

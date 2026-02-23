@@ -1,0 +1,5 @@
+environment: prod
+default_model: gpt-4o
+memory_backend: pinecone
+max_iterations: 20
+human_in_loop: true
